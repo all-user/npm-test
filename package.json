@@ -1,0 +1,9 @@
+{
+  "name": "npm-test",
+  "version": "0.0.1",
+  "main": "index.ts",
+  "repository": "ssh://git@github.com/all-user/npm-test.git",
+  "author": "Okamoto Keita <ooorue@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
