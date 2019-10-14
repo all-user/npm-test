@@ -1,5 +1,5 @@
 {
-  "name": "npm-test",
+  "name": "@all-user/npm-test",
   "version": "0.0.1",
   "main": "index.ts",
   "repository": "ssh://git@github.com/all-user/npm-test.git",
