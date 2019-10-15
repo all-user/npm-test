@@ -1,0 +1,10 @@
+{
+  "name": "@all-user/npm-test",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "mod-a",
+      "mod-b"
+    ]
+  }
+}

@@ -1,5 +1,11 @@
 {
   "name": "@all-user/mod-a",
   "version": "0.0.1",
-  "main": "index.ts"
+  "main": "index.ts",
+  "devDependencies": {
+    "husky": "^3.0.9"
+  },
+  "dependencies": {
+    "react": "^16.10.2"
+  }
 }

@@ -1,5 +1,11 @@
 {
   "name": "@all-user/mod-b",
   "version": "0.0.1",
-  "main": "index.ts"
+  "main": "index.ts",
+  "dependencies": {
+    "vue": "^2.6.10"
+  },
+  "devDependencies": {
+    "webpack": "^4.41.1"
+  }
 }
